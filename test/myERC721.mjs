@@ -67,9 +67,3 @@ describe("MyERC721", function () {
     console.log("User2 balance : 1 tokens ")
   });
 });
-
-// npm i
-
-// npx hardhat node (terminal wa7adha) to93od tekhdem
-
-// npx hardhat compile
